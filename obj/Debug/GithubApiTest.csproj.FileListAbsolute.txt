@@ -1,0 +1,7 @@
+C:\Users\Familia\source\repos\GithubApiTest\bin\Debug\GithubApiTest.exe.config
+C:\Users\Familia\source\repos\GithubApiTest\bin\Debug\GithubApiTest.exe
+C:\Users\Familia\source\repos\GithubApiTest\bin\Debug\GithubApiTest.pdb
+C:\Users\Familia\source\repos\GithubApiTest\obj\Debug\GithubApiTest.csprojResolveAssemblyReference.cache
+C:\Users\Familia\source\repos\GithubApiTest\obj\Debug\GithubApiTest.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\GithubApiTest\obj\Debug\GithubApiTest.exe
+C:\Users\Familia\source\repos\GithubApiTest\obj\Debug\GithubApiTest.pdb
