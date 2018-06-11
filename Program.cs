@@ -90,6 +90,7 @@ namespace GithubApiTest
 
             //HttpClientAsync(url);
             //HttpWebRequestClient(url)
+            //2 commit
             HttpClient2();
             //var jsonRequest = JSONHelper.GetJSONString(uri);
             //var objRequest = JSONHelper.GetObjectFromJSONString<Rootobject>(jsonRequest);
