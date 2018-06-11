@@ -86,11 +86,11 @@ namespace GithubApiTest
 
         static void  Main(string[] args)
         {
-            string url = "https://api.github.com/user?access_token=8f3484ebeae5a01583d94a7944f0b35ad20dad20";
+            string url = "https://api.github.com/user?access_token=token";
 
             //HttpClientAsync(url);
             //HttpWebRequestClient(url)
-            //2 commit
+            //3 commit
             HttpClient2();
             //var jsonRequest = JSONHelper.GetJSONString(uri);
             //var objRequest = JSONHelper.GetObjectFromJSONString<Rootobject>(jsonRequest);
